@@ -61,7 +61,6 @@ function Panel() {
 								))}
 						</div>
 
-						{/* Render sub-items if they exist */}
 						{item.subItems && (
 							<div className={styles.subNav}>
 								{item.subItems.map(subItem => (
