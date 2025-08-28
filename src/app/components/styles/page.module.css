@@ -150,6 +150,16 @@
   gap: 8px;
 }
 
+.topBarIcon {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+  border-radius: 50px;
+}
+
 .topBarTitleText {
   font-size: 14px;
   font-weight: 500;
